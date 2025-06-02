@@ -1,1 +1,1 @@
-# Kaggle_Titanic_Survival_Rate
+# Kaggle_Data_Analytics__EVERYDAY
